@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--名称：钟文磊
--学号：311800435
--兴趣爱好：打球唱歌敲代码
